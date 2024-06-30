@@ -1,0 +1,7 @@
+The script was created in order to run a DCC with different number of dummies for Monero and the other two cryptocurrencies, Bitcoin and Ethereum. It was used for my coursework "Monero as a Financial Asset" since the program that was used, Gretl, wouldn't allow such a thing. Since the dummy used for Bitcoin is the same dummy used for Ethereum, by just changing the variable we can do a DCC for Monero and Ethereum instead. 
+
+
+Best regards, 
+
+Vasilis - Romanos Daskalinas 
+rdaskalinas@gmail.com
