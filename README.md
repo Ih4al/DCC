@@ -1,4 +1,4 @@
-# Conditional Correlation Analysis between Monero and Bitcoin
+# Conditional Correlation Analysis between Monero, Bitcoin and Ethereum.
 
 This repository contains an R script to analyze the conditional correlations between Monero and Bitcoin prices using the `rmgarch` package. The script models the volatility of Monero and Bitcoin using GARCH models with external regressors and then computes the Dynamic Conditional Correlation (DCC) between the two cryptocurrencies.
 
