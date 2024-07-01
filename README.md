@@ -7,6 +7,7 @@ This repository contains an R script to analyze the conditional correlations bet
 The dataset used in this project should contain the following columns:
 - `Mon_P`: Monero prices.
 - `Btc_P`: Bitcoin prices.
+- `Eth_P`: Ethereum prices.
 
 Ensure your dataset is named `DATA_Updated` and has the columns mentioned above.
 
